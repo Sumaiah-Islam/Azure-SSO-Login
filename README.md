@@ -1,4 +1,3 @@
-Read SSO login process - [https://github.com/Sumaiah-Islam/Azure-SSO-Login](https://medium.com/@sumaiah.mitu/building-azure-sso-login-in-flutter-using-aad-oauth-flutter-bloc-and-dio-e7833d68a6ee)
 # sso_login
 
 A new Flutter project.
