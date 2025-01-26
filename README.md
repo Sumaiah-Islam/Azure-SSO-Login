@@ -1,4 +1,4 @@
-Describe the full process: https://medium.com/@sumaiah.mitu/building-azure-sso-login-in-flutter-using-aad-oauth-flutter-bloc-and-dio-e7833d68a6ee
+https://medium.com/@sumaiah.mitu/building-azure-sso-login-in-flutter-using-aad-oauth-flutter-bloc-and-dio-e7833d68a6ee
 
 # sso_login
 
